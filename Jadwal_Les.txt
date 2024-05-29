@@ -1,0 +1,65 @@
+<html>
+<head>
+		<title>::: Link Dokumen Lain :::</title>
+</head>
+<body bgcolor=#00BFFF>
+<font face=Times new roman size=6 color=black>
+<b><center>.::: Les Privat Kuy :::. <br>
+<font face=arial size=4 color=black>
+<i>Success By Yourself</i>
+<font face=arial size=3 color=black>
+<hr>
+<center>| <a href=Les_Privat_Kuy.html>Home</a>|</center>
+<center>| <a href=Mata_Pelajaran.html>Mata Pelajaran</a>|</center>
+<center>| <a href=Jadwal_Les.html>Jadwal Les</a> |</center>
+<center>| <a href=Tutor.html>Tutor</a> |</center>
+<center>| <a href=Kontak.html>Kontak</a> |</center>
+<hr><p>
+<html>
+<head>
+		<title>::: Documents :::</title>
+</head>
+<body>
+<MARQUEE WIDTH="100%" bg color=black>Selamat Datang di Les Privat Kuy</MARQUEE>
+<b><font size=3 Face=tahoma color=black>
+<b><font size=2 Face=tahoma color=black>
+<font face=verdana size=4 color=black>
+<div id="jadwal-les" class="section">
+            <h2>Jadwal Les</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Hari</th>
+                        <th>Jam</th>
+                        <th>Mata Pelajaran</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Senin</td>
+                        <td>15:00 - 17:00</td>
+                        <td>Matematika</td>
+                    </tr>
+                    <tr>
+                        <td>Selasa</td>
+                        <td>16:00 - 18:00</td>
+                        <td>Fisika</td>
+                    </tr>
+                    <tr>
+                        <td>Rabu</td>
+                        <td>14:00 - 16:00</td>
+                        <td>Kimia</td>
+                    </tr>
+                    <tr>
+                        <td>Kamis</td>
+                        <td>15:00 - 17:00</td>
+                        <td>Biologi</td>
+                    </tr>
+                    <tr>
+                        <td>Jumat</td>
+                        <td>16:00 - 18:00</td>
+                        <td>Bahasa Inggris</td>
+</ul>
+</body>
+</html>
+

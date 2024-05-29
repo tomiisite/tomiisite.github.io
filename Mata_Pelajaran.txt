@@ -1,0 +1,44 @@
+<html>
+<head>
+		<title>::: Link Dokumen Lain :::</title>
+</head>
+<body bgcolor=#00BFFF>
+<font face=Times new roam size=6 color=black>
+<b><center>.::: Les Privat Kuy :::. <br></center>
+<font face=arial size=4 color=black>
+<i><center>Success By Yourself </center></i>
+<font face=arial size=3 color=black>
+<hr>
+<center>| <a href=Les_Privat_Kuy.html>Home</a>|</center>
+<center>| <a href=Mata_Pelajaran.html>Mata Pelajaran</a>|</center>
+<center>| <a href=Jadwal_Les.html>Jadwal Les</a> |</center>
+<center>| <a href=Tutor.html>Tutor</a> |</center>
+<center>| <a href=Kontak.html>kontak</a> |</center>
+<hr><p>
+<html>
+<head>
+		<title>::: Documents :::</title>
+</head>
+<body>
+<MARQUEE WIDTH="100%" bg color=black>Selamat Datang di Les Privat Kuy</MARQUEE>
+<b><font size=3 Face=tahoma color=black>
+<b><font size=2 Face=tahoma color=black>
+<hr><p><font face=verdana size=4 color=black>
+<font size=3>
+       <div id="mata-pelajaran" class="section">
+            <center><h3>Mata Pelajaran : </h3></center>
+            <ul>
+               <center> <p>Matematika</p></center>
+               <center> <p>Fisika</p></center>
+                <center><p>Kimia</p></center>
+                <center><p>Biologi</p></center>
+                <center><p>Bahasa Inggris</p></center>
+                <center><p>Bahasa Indonesia</p></center>
+                <center><p>Sejarah</p></center>
+                <center><p>Geografi</p></center>
+            </ul>
+        </div>
+
+<html>
+<head>
+		
